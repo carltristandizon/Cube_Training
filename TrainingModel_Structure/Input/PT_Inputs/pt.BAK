@@ -1,0 +1,6 @@
+;;<<PT>><<SYSTEM>>;;
+MODE NUMBER=1 LONGNAME="Rail Transit" NAME="Rail" 
+MODE NUMBER=2 LONGNAME="Bus Transit" NAME="Bus" 
+MODE NUMBER=100 LONGNAME="Walk Connectors" NAME="Walkcon" 
+MODE NUMBER=200 LONGNAME="Transfers" NAME="Xfers" 
+MODE NUMBER=201 LONGNAME="Auto Connectors" NAME="Autocon" 
